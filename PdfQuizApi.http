@@ -1,0 +1,6 @@
+@PdfQuizApi_HostAddress = http://localhost:5252
+
+GET {{PdfQuizApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
