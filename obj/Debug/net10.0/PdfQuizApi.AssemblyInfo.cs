@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfQuizApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af0655e7ba3aced56f610a35eb2a4b3c4edf0ca1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f0a724c1d2caa1f3d80e1ce9320f52bd124a1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfQuizApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfQuizApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
